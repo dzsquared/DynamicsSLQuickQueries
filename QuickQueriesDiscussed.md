@@ -1,7 +1,11 @@
-Quick Queries Discussed:
+# Session Notes, 4/24/2018
+
+## Quick Query Reminders
 * you can expand the QQ return view in Solomon.ini
 * quick queries opening SL screens 
-* GRANT PERMISSIONS for 2 report users (E8_____ and MSDSL role)
+* GRANT PERMISSIONS for 2 report users (E8_____ and MSDSL role) to avoid running database maintenance during production hours
+
+## Quick Queries Discussed:
 - Jaime, AR Aging
 - Helen, Project Totals QQ includes all charges
 - Helen, AR Documents (invoices and debit memos)
@@ -23,3 +27,4 @@ Quick Queries Discussed:
 - Jonathan, inventory kits with bill of materials
 - inventory user table + 60 field user table
 - landfall data AP import and QQ data verification
+- AP/AR documents debits and credits with correct signs in currency values

@@ -1,7 +1,11 @@
 # DynamicsSLQuickQueries
 Collection of useful Dynamics SL Quick Queries
 
-## Some of the first submissions will be rewarded after the conference.
+[Notes from the 4/24/2018 Session](/QuickQueriesDiscussed.md)
+
+### Some of the first submissions will be rewarded after the conference.
+
+***
 
 ## Ground Rules:
 1. Queries should include no *UPDATE*, *DELETE*, or *INSERT* statements.
