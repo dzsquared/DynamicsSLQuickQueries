@@ -3,6 +3,8 @@ Collection of useful Dynamics SL Quick Queries
 
 [Notes from the 4/24/2018 Session](/QuickQueriesDiscussed.md)
 
+[Adding Drill Down in Quick Query](/DrillDown.md)
+
 ### Some of the first submissions will be rewarded after the conference.
 
 ***
